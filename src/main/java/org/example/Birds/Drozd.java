@@ -12,6 +12,6 @@ public class Drozd extends ColoredBird implements Singable{
 
     @Override
     public void sing() {
-        System.out.println("Drozd can fly :)");
+        System.out.println("Drozd can sing :)");
     }
 }
