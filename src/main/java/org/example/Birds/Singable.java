@@ -1,6 +1,6 @@
 package org.example.Birds;
 
-public interface Singable {
+interface Singable {
 
     void sing();
 }

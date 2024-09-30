@@ -1,6 +1,6 @@
 package org.example.Birds;
 
-public class Straus extends Bird implements Walkable{
+class Straus extends Bird implements Walkable{
 
     public Straus() {
     }

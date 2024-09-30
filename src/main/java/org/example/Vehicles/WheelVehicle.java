@@ -1,5 +1,5 @@
 package org.example.Vehicles;
 
-public interface WheelVehicle {
+interface WheelVehicle {
     final boolean hasWheels = true;
 }

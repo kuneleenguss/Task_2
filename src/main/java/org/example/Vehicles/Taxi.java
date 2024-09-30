@@ -1,5 +1,5 @@
 package org.example.Vehicles;
 
-public class Taxi extends Vehicle implements WheelVehicle{
+class Taxi extends Vehicle implements WheelVehicle{
 
 }

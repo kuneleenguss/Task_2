@@ -1,6 +1,6 @@
 package org.example.Birds;
 
-public class Penguin extends ColoredBird implements Walkable{
+class Penguin extends ColoredBird implements Walkable{
     public Penguin() {
         super("black");
     }

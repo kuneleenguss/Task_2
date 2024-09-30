@@ -1,6 +1,6 @@
 package org.example.Birds;
 
-public interface Walkable {
+interface Walkable {
 
     void walk();
 }

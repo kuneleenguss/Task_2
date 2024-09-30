@@ -1,6 +1,6 @@
 package org.example.Birds;
 
-public interface Flyable {
+interface Flyable {
 
     void fly();
 }
