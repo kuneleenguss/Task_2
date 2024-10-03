@@ -1,9 +1,6 @@
 package org.example.Birds;
 
-class Straus extends Bird implements Walkable{
-
-    public Straus() {
-    }
+public class Straus extends Bird implements Walkable{
 
     @Override
     public void fly() {

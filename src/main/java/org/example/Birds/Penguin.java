@@ -1,13 +1,12 @@
 package org.example.Birds;
 
-class Penguin extends ColoredBird implements Walkable{
+public class Penguin extends Bird implements Walkable{
     public Penguin() {
         super("black");
     }
 
     @Override
     public void fly() {
-        System.out.println(color);
         System.out.println("Penguin can't fly :(");
     }
 
